@@ -1,4 +1,4 @@
-let questions= [{
+var questions= [{
     question:"What is the baby name of a Moth known as?",
     choices:["baby", "infant", "kit", "larva"],
     correctAnswer:3
